@@ -12,4 +12,4 @@ I want to give the idea that:
 - A project must be fun
 - A project must sharpen our skills  
 Continue making goofy flaws cause the fracture itself always has a loophole :)  
-![](https://media.discordapp.net/attachments/1176169547393417327/1177667070939386027/sigma.png?ex=657356ed&is=6560e1ed&hm=1bd93ad71511f7e9afb517a831094975c79c2ec92d21504363fb8cbbcd3ec870&=&format=webp&width=1440&height=655)
+![](https://media.discordapp.net/attachments/1176169547393417327/1177667583718203492/sigma.png?ex=65735767&is=6560e267&hm=eefef833c26499346fc29aabd908d78e1e8405296af8bb016e7527fbfa3c5faf&=&format=webp&width=1440&height=655)
