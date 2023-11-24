@@ -6,7 +6,7 @@ This app contains:
 - Navigation
 - etc
 
-### Why I made such a agony?  
+### Why I made such an agony?  
 I want to give the idea that:  
 - A project must not be a flex nor a pride maker
 - A project must be fun
