@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeaApp</string>
+    <string name="title_activity_about_me">AboutMe</string>
+    <string name="title_activity_home">Home</string>
+</resources>
